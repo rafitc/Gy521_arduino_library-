@@ -1,6 +1,6 @@
 #include "Gy521.h"
 #include "Arduino.h"
-#include <Wire.h>
+#include <Wire.h> //I2C liberary
 
 Gy521::Gy521()
 {
